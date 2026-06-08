@@ -113,7 +113,6 @@ void	convertFloat(const std::string& l){
 	}
 }
 
-
 void	convertDouble(const std::string& l){
 	double	d;
 	std::stringstream literal(l);

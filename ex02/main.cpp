@@ -22,8 +22,6 @@ int main()
 		std::cout << "Reference identify: ";
 		identify(*obj);
 
-		std::cout << "-------------------" << std::endl;
-
 		delete obj;
 	}
 
