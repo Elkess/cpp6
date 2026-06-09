@@ -13,9 +13,3 @@ int main(int ac, char const *av[])
 	}
 	return 0;
 }
-/*
-922337203
-1e309
-1e40
-1e40f
-*/
