@@ -2,7 +2,7 @@
 #include "B.hpp"
 #include "C.hpp"
 
-#include <cstdlib>// not sure about u
+#include <cstdlib>
 #include <iostream>
 
 Base * generate(void) {
